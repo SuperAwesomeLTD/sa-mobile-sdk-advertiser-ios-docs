@@ -1,7 +1,7 @@
-AwesomeAds iOS Advertiser SDK
-=============================
+iOS Advertiser SDK
+==================
 
-The AwesomeAds iOS Advertiser SDK (Software Development Kit) lets you to easily measure installs in your app in a COPPA compliant way.
+The iOS Advertiser SDK (Software Development Kit) lets you to easily measure installs in your app in a COPPA compliant way.
 
 =============== ========
 Info            Contents
@@ -18,3 +18,8 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
+
+	 Add the SDK through CocoaPods <01addcocoa>
+   Add the SDK as a framework <02addframe>
+   Add the SDK as a static library <03addstatic>
+ 	 Measure installs <04install>
